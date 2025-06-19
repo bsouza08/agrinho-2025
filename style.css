@@ -30,8 +30,8 @@ p {
     /* margem lateral */
 }
 
-.imagem-introducao,
-.infografico {
+.imagem-introduçao,
+.vegetais {
     display: block;
     margin: 20px auto;
     max-width: 40%;
@@ -76,8 +76,8 @@ footer p {
         font-size: 1.2rem;
     }
 
-    .imagem-introducao,
-    .infografico {
+    .imagem-introduçao,
+    .vegetais {
         max-width: 90%;
     }
 
@@ -95,7 +95,7 @@ footer p {
 @media (min-width: 601px) and (max-width: 1024px) {
 
     .imagem-introducao,
-    .infografico {
+    .vegetais {
         max-width: 60%;
     }
 
